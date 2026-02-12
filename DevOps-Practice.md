@@ -216,15 +216,6 @@ spec:
 - [ ] HorizontalPodAutoscaler
 - [ ] Deploy to cloud (GKE/EKS)
 
-## 📊 Progress Tracker
-
-```
-Week 1: [Dockerfiles] ✅
-Week 2: [Compose + K8s] ✅
-Week 3: [Scaling + Debug] ⏳
-Week 4: [Cloud Deploy] ⏳
-```
-
 ## 💼 Interview Prep Commands
 
 ```bash
