@@ -1,13 +1,5 @@
 # 🚀 Daily DevOps Practice
 
-**Wake up → Practice → Commit → Repeat → Land 18 LPA Job**
-
-This repository powers your daily morning DevOps routine: Dockerfiles → Docker Compose → Kubernetes manifests → Cloud deployment. Complete one section per day, commit changes, build interview confidence.
-
-[![Daily Practice](https://img.shields.io/badge/Daily-Practice-brightgreen)](https://github.com/yourusername/daily-devops-practice)
-
-## 🎯 Quickstart Routine (5-15 mins daily)
-
 ```bash
 # 1. Build & test containers
 docker build -t practice-app .
